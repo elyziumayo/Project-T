@@ -1,0 +1,58 @@
+# No Copyright
+
+# general settings
+title-text: ""
+desktop-image: "background.png"
+desktop-color: "#000000"
+terminal-font: "Terminus (TTF) Regular 16"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+
++ label {
+	font = "Rajdhani Regular 32"
+	left = 0%
+	top = 25%
+	width = 100%
+	align = "center"
+	color = "#842624"
+	text = "BIO-ORGANIC WEAPONS PROJECT DATABASE (VER. 2.2)"
+}
+# boot menu
++ boot_menu {
+    left = 35%
+    width = 35%
+    top = 30%
+    height = 40%	
+    item_font = "Rajdhani Regular 24"
+    item_color = "#74d6cf"
+    selected_item_font = "Rajdhani Regular 24"
+    selected_item_color = "#74d6cf"
+    icon_width = 24
+    icon_height = 24
+    item_height = 35
+    item_padding = 20
+    item_icon_space = 5
+    item_spacing = 5
+    menu_pixmap_style = "item/no_*.png"
+    selected_item_pixmap_style = "item/highlight_*.png"
+}
+
+# Show progress
++ progress_bar {
+  left = 0%
+  top = 100%-10
+  width = 100%
+  height = 10
+  id = "__timeout__"
+  text = "@TIMEOUT_NOTIFICATION_LONG@"
+  font = "Rajdhani Regular 16"
+  fg_color = "#ffffff"
+  bg_color = "#ffffff"
+  border_color = "#f75d54"
+  highlight_style = "progress_*.png"
+}
+
+
