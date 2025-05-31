@@ -64,23 +64,6 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
 > This theme is for aesthetic purposes only. The creator assumes no responsibility for any T-Virus outbreaks that may occur during installation.
 
-## 🔐 Legal Disclaimer
-
-```
-UMBRELLA CORPORATION CLASSIFIED DOCUMENT
-SECURITY LEVEL: RED
-FILE STATUS: NO RIGHTS RESERVED
-
-This biological weapon is released into the wild with no strings attached. 
-Use at your own risk. The Umbrella Corporation maintains plausible deniability 
-for any city-wide infections that may occur.
-
-Original strain source: CyberGRUB-2077
-Mutation facility: Project-T Laboratory
-```
-
----
-
 <div align="center">
 
 *Engineered in Umbrella Corporation's Underground UI Laboratory*
