@@ -68,8 +68,4 @@ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 
 *Engineered in Umbrella Corporation's Underground UI Laboratory*
 
-*"Through Design We Control, Through Control We Evolve"*
-
-[SECURITY CLEARANCE LEVEL: ALPHA]
-
 </div>
